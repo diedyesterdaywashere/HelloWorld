@@ -7,4 +7,5 @@ Hello World in every programming language
 - Pascal
 - C++
 - Java
-To add new languages make pull requests, i'll look into it, and add it!
+- C#
+- To add new languages make pull requests, i'll look into it, and add it!
